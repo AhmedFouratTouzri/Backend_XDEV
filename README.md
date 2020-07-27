@@ -1,4 +1,4 @@
-Symfony Standard Edition
+Hunt Kingdom by XDEV
 ========================
 
 **WARNING**: This distribution does not support Symfony 4. See the
